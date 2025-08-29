@@ -1,6 +1,6 @@
 # Hi there! I'm Vashishta Mithra Reddy 👋
 
-> **Full-Stack Developer | Blockchain Enthusiast | Building Digital Solutions That Matter**
+> **Human | Full-Stack Developer | Blockchain Developer | Highly Interested in AI/ML, Agents, Automations**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-v19.tech-blue?style=flat-square&logo=react)](https://v19.tech)
 [![Personal Site](https://img.shields.io/badge/Website-vashishtamithra.com-green?style=flat-square&logo=next.js)](https://vashishtamithra.com)
@@ -10,11 +10,7 @@
 I'm a passionate full-stack developer from India who loves creating innovative web applications, blockchain solutions, and IoT systems. With 15+ production applications under my belt, I specialize in building modern, scalable solutions that solve real-world problems.
 
 ## 🚀 What I'm Currently Working On
-
-- 🌱 Building **sustainable agriculture solutions** with blockchain technology
-- 💡 Developing **decentralized fundraising platforms** with AI validation
-- 🏥 Creating **wellness and health tech applications**
-- 🎯 Exploring **modern web technologies** and **Web3 ecosystems**
+A Wellness platform called hita do check it out! [![Hita]](https://hita.v19.tech)
 
 ## 💻 Tech Stack & Skills
 
@@ -47,93 +43,6 @@ I'm a passionate full-stack developer from India who loves creating innovative w
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron)
 
-## 🏆 Featured Projects
-
-### 🌾 **Blockchain & Agriculture**
-#### [**Vikraya**](https://vikraya.vercel.app) - *Blockchain Crop Auction Platform*
-A revolutionary platform connecting farmers directly with buyers through transparent blockchain auctions.
-- **Tech**: Next.js, TypeScript, Solidity, Ethereum, Firebase
-- **Features**: Smart contracts, MetaMask integration, real-time bidding, OTP security
-
-#### [**Nidhi**](https://nidhi.v19.tech) - *Decentralized Fundraising Platform*
-Open-source blockchain fundraising with AI validation and token rewards for contributors.
-- **Tech**: Next.js, TypeScript, Smart Contracts, AI Integration
-- **Features**: LLM validation, token rewards, Docker deployment
-
-### 🏥 **Health & Wellness**
-#### [**Hita**](https://hita.v19.tech) - *Comprehensive Wellness Platform*
-Modern wellness application promoting healthier lifestyles with personalized features.
-- **Tech**: Next.js, TypeScript, Progressive Web App
-- **Features**: Health tracking, personalized recommendations, responsive design
-
-### 🌐 **Web Applications & SaaS**
-#### [**V19 Portfolio**](https://v19.tech) - *Modern Developer Portfolio*
-Minimalist, high-performance portfolio showcasing full-stack development projects.
-- **Tech**: Next.js 15, React 19, TypeScript, Tailwind CSS, Framer Motion
-- **Features**: Dark/light mode, smooth animations, responsive design
-
-#### [**WhiteWaters**](https://whitewaters.vercel.app) - *Tourism Platform*
-Comprehensive tourism platform with MIT license for open-source collaboration.
-- **Tech**: Next.js, TypeScript, Modern Web Standards
-
-### 🎨 **Creative & Personal Projects**
-#### [**Moon Model**](https://moon-two-topaz.vercel.app) - *3D Three.js Experience*
-Interactive 3D moon model showcasing WebGL and Three.js capabilities.
-- **Tech**: Three.js, TypeScript, WebGL, Interactive 3D Graphics
-
-#### [**Food Junction**](https://thefoodjunction.vercel.app) - *Restaurant Website*
-Modern restaurant website with elegant design and user experience.
-- **Tech**: HTML, CSS, JavaScript, Responsive Design
-
-### 🔧 **IoT & Hardware**
-#### [**Krushi**](https://github.com/Vashishta-Mithra-Reddy/Krushi) - *IoT Agriculture Monitoring*
-IoT-based smart agriculture system for animal detection and soil moisture control.
-- **Tech**: Python, C++, IoT Sensors, ThingSpeak API, IFTTT
-- **Features**: Animal detection, soil monitoring, SMS alerts, data visualization
-
-### 🖥️ **Desktop Applications**
-#### [**Pomodoro Timer**](https://github.com/Vashishta-Mithra-Reddy/pomodoro) - *Productivity Tool*
-Cross-platform Electron-based Pomodoro timer for enhanced productivity.
-- **Tech**: Electron, TypeScript, Desktop Application Development
-
-### 🦀 **Systems Programming**
-#### [**Rust Playground**](https://github.com/Vashishta-Mithra-Reddy/hello_rust) - *Learning Systems Programming*
-Exploration into systems programming with Rust for performance-critical applications.
-- **Tech**: Rust, Systems Programming, Memory Safety
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vashishta-Mithra-Reddy&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vashishta-Mithra-Reddy&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vashishta-Mithra-Reddy&theme=radical&hide_border=true)
-
-</div>
-
-## 🌟 What Sets Me Apart
-
-- **🎯 Problem-Solving Focus**: Every project addresses real-world challenges
-- **🔧 Full-Stack Expertise**: From smart contracts to responsive frontends
-- **📱 Modern Development**: Latest frameworks, best practices, and clean code
-- **🌍 Global Impact**: Applications serving users worldwide
-- **⚡ Performance-First**: Optimized, fast, and scalable solutions
-- **🎨 Design Conscious**: Beautiful, intuitive user experiences
-
-## 💼 Professional Highlights
-
-- **15+ Production Applications** deployed and serving real users
-- **Multi-Domain Experience**: AgriTech, HealthTech, FinTech, Tourism, IoT
-- **Open Source Contributions** with MIT-licensed projects
-- **Modern Web Standards** with cutting-edge technology adoption
-- **Blockchain Innovation** in practical, real-world applications
-
-## 🤝 Let's Connect!
-
-I'm always excited to collaborate on innovative projects and discuss new opportunities!
-
 ### 📫 Get In Touch
 - **🌐 Portfolio**: [v19.tech](https://v19.tech)
 - **💼 Professional Site**: [vashishtamithra.com](https://vashishtamithra.com)
@@ -152,7 +61,5 @@ I'm always excited to collaborate on innovative projects and discuss new opportu
 ---
 
 <div align="center">
-  <strong>⭐ Feel free to explore my repositories and star the projects you find interesting!</strong>
-  <br><br>
-  <em>Building the future, one commit at a time 🚀</em>
+  <strong>Feel free to explore my repositories and star the projects you find interesting!</strong>
 </div>
