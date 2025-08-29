@@ -1,9 +1,9 @@
-I love building stuff.
+### I love building stuff.
 
 > **Human | Full-Stack Developer | Blockchain Developer | Highly Interested in AI/ML, Agents, Automations**
 
 
-## What I'm Currently Working On
+### What I'm Currently Working On
 A Wellness platform called hita do check it out! [Hita](https://hita.v19.tech)
 
 
