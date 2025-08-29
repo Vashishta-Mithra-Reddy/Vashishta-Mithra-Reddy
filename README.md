@@ -16,8 +16,4 @@ A Wellness platform called hita do check it out! [Hita](https://hita.v19.tech)
 - Instagram: [@vashishta_mithra_reddy](https://instagram.com/vashishta_mithra_reddy)
 
 ###  Open to Collaborate On
-- AgriTech & Sustainability projects
-- Blockchain & Web3 applications
-- HealthTech & Wellness platforms
-- Social Impact technologies
-- Innovative Web experiences
+- Any Thingy Interesting
