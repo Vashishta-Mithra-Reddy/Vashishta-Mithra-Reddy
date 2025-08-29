@@ -1,5 +1,3 @@
-# I'm Vashishta Mithra Reddy
-
 > **Human | Full-Stack Developer | Blockchain Developer | Highly Interested in AI/ML, Agents, Automations**
 
 I love building stuff.
