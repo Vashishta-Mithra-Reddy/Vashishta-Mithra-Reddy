@@ -21,9 +21,3 @@ A Wellness platform called hita do check it out! [Hita](https://hita.v19.tech)
 - HealthTech & Wellness platforms
 - Social Impact technologies
 - Innovative Web experiences
-
----
-
-<div align="center">
-  <strong>Feel free to explore my repositories and star the projects you find interesting!</strong>
-</div>
