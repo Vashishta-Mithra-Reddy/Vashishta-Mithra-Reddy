@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-v19.tech-blue?style=flat-square&logo=react)](https://v19.tech)
 [![Personal Site](https://img.shields.io/badge/Website-vashishtamithra.com-green?style=flat-square&logo=next.js)](https://vashishtamithra.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vashishta--mithra-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/vashishta-mithra/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vashishta--mithra-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/vashishta-mithra-reddy/)
 [![Email](https://img.shields.io/badge/Email-me%40vashishtamithra.com-D14836?style=flat-square&logo=gmail)](mailto:me@vashishtamithra.com)
 
 I'm a passionate full-stack developer from India who loves creating innovative web applications, blockchain solutions, and IoT systems. With 15+ production applications under my belt, I specialize in building modern, scalable solutions that solve real-world problems.
@@ -138,7 +138,7 @@ I'm always excited to collaborate on innovative projects and discuss new opportu
 - **🌐 Portfolio**: [v19.tech](https://v19.tech)
 - **💼 Professional Site**: [vashishtamithra.com](https://vashishtamithra.com)
 - **📧 Email**: [me@vashishtamithra.com](mailto:me@vashishtamithra.com)
-- **💼 LinkedIn**: [vashishta-mithra](https://linkedin.com/in/vashishta-mithra/)
+- **💼 LinkedIn**: [vashishta-mithra](https://linkedin.com/in/vashishta-mithra-reddy/)
 - **🐦 Twitter**: [@v19tech](https://x.com/v19tech)
 - **📱 Instagram**: [@vashishta_mithra_reddy](https://instagram.com/vashishta_mithra_reddy)
 
